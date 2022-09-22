@@ -1,0 +1,19 @@
+hr {border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(64, 64, 64);
+     border-width: 5px;
+     width: 7%;}
+     
+     body {background-color:#bfd9d9;}
+     img { border: 5px solid #16213E;}
+     table, td, th {border: 2px solid;}
+     table { border-collapse: collapse;}
+h1 {
+    color: #1f7979;
+}
+h2 {
+    color: #459999;
+}
+     
+     
+
