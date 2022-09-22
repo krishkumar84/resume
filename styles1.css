@@ -1,0 +1,18 @@
+hr {border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(64, 64, 64);
+     border-width: 5px;}
+     
+     body {background-color:#bfd9d9;}
+     
+     table, td, th {border: 2px solid;}
+     table { border-collapse: collapse;}
+h1 {
+    color: #1f7979;
+}
+h2 {
+    color: #459999;
+}
+  
+     
+
