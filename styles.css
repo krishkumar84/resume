@@ -4,7 +4,7 @@ hr {border-style: none;
      border-width: 5px;
      width: 7%;}
      
-     body {background-color:#bfd9d9;}
+     body {background: linear-gradient(to top left, #6edffc, #9dd3da);}
      table, td, th {border: 2px solid;}
      table { border-collapse: collapse;}
      #krish{border: 5px solid #16213E;}
@@ -18,7 +18,7 @@ hr {border-style: none;
         body{
             
             font-family: 'poppins',sans-serif;
-            font-size: 150%;
+            font-size: 120%;
             padding: 0;
             margin: 0;
         }
@@ -48,11 +48,11 @@ h2 {
     }
 
     .logo:nth-child(2){
-        transition-delay: 400ms;
+        transition-delay: 500ms;
         padding-left: 110px;
     }
     .logo:nth-child(3){
-        transition-delay: 600ms;
+        transition-delay: 700ms;
         padding-left: 60px;
         
     }
